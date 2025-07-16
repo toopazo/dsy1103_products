@@ -77,8 +77,8 @@ Un ejemplo de respuesta de la API con el método GET en ```http://localhost:8082
                     }
                 }
             },
-
-
+        ]
+    },
     "_links": {
         "self": {
             "href": "http://localhost:8083/api/v1/products"
